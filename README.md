@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sullyelh
 - 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning python!
-- 💞️ I’m looking to collaborate on python focused projects!
+- 🌱 I’m currently learning Javascript!
+- 💞️ I’m looking to collaborate on frontend focused projects!
 - 📫 How to reach me: sully.elhassan@gmail.com
 
 <!---
